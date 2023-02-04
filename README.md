@@ -15,4 +15,9 @@
  - Mostly, I used the data provided in the laboratories.
 
 ### Notes:
- - It was a lot of fun horsing around with Arduino.
+ - The menu worked but it was kinda buggy.
+
+### Setup:
+<img src="https://user-images.githubusercontent.com/63961737/216773385-06168ecf-42e7-4bbd-91a7-3e8e0abb2cf5.jpeg" width="200">
+
+Link video: https://youtube.com/shorts/VYIqu4odHSI
